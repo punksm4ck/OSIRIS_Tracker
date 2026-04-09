@@ -1,3 +1,4 @@
+"© 2026 Punksm4ck. All rights reserved."
 from findmy import AppleAccount
 from findmy.reports import RemoteAnisetteProvider
 
