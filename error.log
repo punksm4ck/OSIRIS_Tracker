@@ -1,0 +1,390 @@
+2026-03-01 16:57:08.090576: [Errno 2] No such file or directory: '/home/tsann/Scripts/OSIRIS_Tracker/osiris_env/bin/pypush'
+2026-03-01 16:57:19.723354: [Errno 2] No such file or directory: '/home/tsann/Scripts/OSIRIS_Tracker/osiris_env/bin/pypush'
+2026-03-01 17:02:19.725217: [Errno 2] No such file or directory: '/home/tsann/Scripts/OSIRIS_Tracker/osiris_env/bin/pypush'
+2026-03-01 17:02:20.233924: [Errno 2] No such file or directory: '/home/tsann/Scripts/OSIRIS_Tracker/osiris_env/bin/pypush'
+2026-03-01 17:03:06.671937: [Errno 2] No such file or directory: 'pypush'
+2026-03-01 17:03:52.303850: [Errno 2] No such file or directory: 'pypush'
+2026-03-01 17:04:25.015897: Command '['pypush', 'interpret', '--key', 'RJCngObbHGXgWKen2okANJNAlHRskSFA=']' returned non-zero exit status 2.
+2026-03-01 17:04:28.934241: Command '['pypush', 'interpret', '--key', 'RJCngObbHGXgWKen2okANJNAlHRskSFA=']' returned non-zero exit status 2.
+2026-03-01 17:04:38.705478: Command '['pypush', 'interpret', '--key', 'RJCngObbHGXgWKen2okANJNAlHRskSFA=']' returned non-zero exit status 2.
+2026-03-01 17:09:38.922670: Command '['pypush', 'interpret', '--key', 'RJCngObbHGXgWKen2okANJNAlHRskSFA=']' returned non-zero exit status 2.
+2026-03-01 17:13:39.063026: Command '['pypush', 'interpret', '--key', 'RJCngObbHGXgWKen2okANJNAlHRskSFA=']' returned non-zero exit status 2.
+2026-03-01 17:18:39.770425: Command '['pypush', 'interpret', '--key', 'RJCngObbHGXgWKen2okANJNAlHRskSFA=']' returned non-zero exit status 2.
+2026-03-01 17:23:40.006479: Command '['pypush', 'interpret', '--key', 'RJCngObbHGXgWKen2okANJNAlHRskSFA=']' returned non-zero exit status 2.
+2026-03-01 17:28:40.226553: Command '['pypush', 'interpret', '--key', 'RJCngObbHGXgWKen2okANJNAlHRskSFA=']' returned non-zero exit status 2.
+2026-03-01 17:33:40.408568: Command '['pypush', 'interpret', '--key', 'RJCngObbHGXgWKen2okANJNAlHRskSFA=']' returned non-zero exit status 2.
+2026-03-01 17:38:40.603226: Command '['pypush', 'interpret', '--key', 'RJCngObbHGXgWKen2okANJNAlHRskSFA=']' returned non-zero exit status 2.
+2026-03-01 17:43:40.778676: Command '['pypush', 'interpret', '--key', 'RJCngObbHGXgWKen2okANJNAlHRskSFA=']' returned non-zero exit status 2.
+2026-03-01 17:48:40.956692: Command '['pypush', 'interpret', '--key', 'RJCngObbHGXgWKen2okANJNAlHRskSFA=']' returned non-zero exit status 2.
+2026-03-01 17:53:41.135757: Command '['pypush', 'interpret', '--key', 'RJCngObbHGXgWKen2okANJNAlHRskSFA=']' returned non-zero exit status 2.
+2026-03-01 17:58:41.314044: Command '['pypush', 'interpret', '--key', 'RJCngObbHGXgWKen2okANJNAlHRskSFA=']' returned non-zero exit status 2.
+2026-03-01 18:03:41.537412: Command '['pypush', 'interpret', '--key', 'RJCngObbHGXgWKen2okANJNAlHRskSFA=']' returned non-zero exit status 2.
+2026-03-01 18:08:41.739256: Command '['pypush', 'interpret', '--key', 'RJCngObbHGXgWKen2okANJNAlHRskSFA=']' returned non-zero exit status 2.
+2026-03-01 18:13:41.916188: Command '['pypush', 'interpret', '--key', 'RJCngObbHGXgWKen2okANJNAlHRskSFA=']' returned non-zero exit status 2.
+2026-03-01 18:18:42.095124: Command '['pypush', 'interpret', '--key', 'RJCngObbHGXgWKen2okANJNAlHRskSFA=']' returned non-zero exit status 2.
+2026-03-01 18:23:42.261723: Command '['pypush', 'interpret', '--key', 'RJCngObbHGXgWKen2okANJNAlHRskSFA=']' returned non-zero exit status 2.
+2026-03-01 18:28:42.430821: Command '['pypush', 'interpret', '--key', 'RJCngObbHGXgWKen2okANJNAlHRskSFA=']' returned non-zero exit status 2.
+2026-03-01 18:33:42.601998: Command '['pypush', 'interpret', '--key', 'RJCngObbHGXgWKen2okANJNAlHRskSFA=']' returned non-zero exit status 2.
+2026-03-01 18:38:42.783605: Command '['pypush', 'interpret', '--key', 'RJCngObbHGXgWKen2okANJNAlHRskSFA=']' returned non-zero exit status 2.
+2026-03-01 18:43:42.957284: Command '['pypush', 'interpret', '--key', 'RJCngObbHGXgWKen2okANJNAlHRskSFA=']' returned non-zero exit status 2.
+2026-03-01 18:48:43.219172: Command '['pypush', 'interpret', '--key', 'RJCngObbHGXgWKen2okANJNAlHRskSFA=']' returned non-zero exit status 2.
+2026-03-01 18:52:22.756910: This event loop is already running
+2026-03-01 18:53:43.499864: Command '['pypush', 'interpret', '--key', 'RJCngObbHGXgWKen2okANJNAlHRskSFA=']' returned non-zero exit status 2.
+2026-03-01 18:58:43.835862: Command '['pypush', 'interpret', '--key', 'RJCngObbHGXgWKen2okANJNAlHRskSFA=']' returned non-zero exit status 2.
+2026-03-01 19:03:44.066963: Command '['pypush', 'interpret', '--key', 'RJCngObbHGXgWKen2okANJNAlHRskSFA=']' returned non-zero exit status 2.
+2026-03-01 19:08:44.364083: Command '['pypush', 'interpret', '--key', 'RJCngObbHGXgWKen2okANJNAlHRskSFA=']' returned non-zero exit status 2.
+2026-03-01 19:13:44.760519: Command '['pypush', 'interpret', '--key', 'RJCngObbHGXgWKen2okANJNAlHRskSFA=']' returned non-zero exit status 2.
+2026-03-01 19:18:44.993340: Command '['pypush', 'interpret', '--key', 'RJCngObbHGXgWKen2okANJNAlHRskSFA=']' returned non-zero exit status 2.
+2026-03-01 19:23:45.338326: Command '['pypush', 'interpret', '--key', 'RJCngObbHGXgWKen2okANJNAlHRskSFA=']' returned non-zero exit status 2.
+2026-03-01 19:28:45.740666: Command '['pypush', 'interpret', '--key', 'RJCngObbHGXgWKen2okANJNAlHRskSFA=']' returned non-zero exit status 2.
+2026-03-01 19:33:45.957178: Command '['pypush', 'interpret', '--key', 'RJCngObbHGXgWKen2okANJNAlHRskSFA=']' returned non-zero exit status 2.
+2026-03-01 19:38:46.174462: Command '['pypush', 'interpret', '--key', 'RJCngObbHGXgWKen2okANJNAlHRskSFA=']' returned non-zero exit status 2.
+2026-03-01 19:43:46.363528: Command '['pypush', 'interpret', '--key', 'RJCngObbHGXgWKen2okANJNAlHRskSFA=']' returned non-zero exit status 2.
+2026-03-01 19:48:46.534796: Command '['pypush', 'interpret', '--key', 'RJCngObbHGXgWKen2okANJNAlHRskSFA=']' returned non-zero exit status 2.
+2026-03-01 19:53:46.718155: Command '['pypush', 'interpret', '--key', 'RJCngObbHGXgWKen2okANJNAlHRskSFA=']' returned non-zero exit status 2.
+2026-03-01 19:58:46.909123: Command '['pypush', 'interpret', '--key', 'RJCngObbHGXgWKen2okANJNAlHRskSFA=']' returned non-zero exit status 2.
+2026-03-01 20:03:47.093548: Command '['pypush', 'interpret', '--key', 'RJCngObbHGXgWKen2okANJNAlHRskSFA=']' returned non-zero exit status 2.
+2026-03-01 20:08:47.287978: Command '['pypush', 'interpret', '--key', 'RJCngObbHGXgWKen2okANJNAlHRskSFA=']' returned non-zero exit status 2.
+2026-03-01 20:13:47.471095: Command '['pypush', 'interpret', '--key', 'RJCngObbHGXgWKen2okANJNAlHRskSFA=']' returned non-zero exit status 2.
+2026-03-01 20:18:47.653066: Command '['pypush', 'interpret', '--key', 'RJCngObbHGXgWKen2okANJNAlHRskSFA=']' returned non-zero exit status 2.
+2026-03-01 20:23:47.870176: Command '['pypush', 'interpret', '--key', 'RJCngObbHGXgWKen2okANJNAlHRskSFA=']' returned non-zero exit status 2.
+2026-03-01 20:28:48.050134: Command '['pypush', 'interpret', '--key', 'RJCngObbHGXgWKen2okANJNAlHRskSFA=']' returned non-zero exit status 2.
+2026-03-01 20:33:48.254429: Command '['pypush', 'interpret', '--key', 'RJCngObbHGXgWKen2okANJNAlHRskSFA=']' returned non-zero exit status 2.
+2026-03-01 20:38:48.469517: Command '['pypush', 'interpret', '--key', 'RJCngObbHGXgWKen2okANJNAlHRskSFA=']' returned non-zero exit status 2.
+2026-03-01 20:43:48.650947: Command '['pypush', 'interpret', '--key', 'RJCngObbHGXgWKen2okANJNAlHRskSFA=']' returned non-zero exit status 2.
+2026-03-01 20:48:48.835729: Command '['pypush', 'interpret', '--key', 'RJCngObbHGXgWKen2okANJNAlHRskSFA=']' returned non-zero exit status 2.
+2026-03-01 20:53:49.015780: Command '['pypush', 'interpret', '--key', 'RJCngObbHGXgWKen2okANJNAlHRskSFA=']' returned non-zero exit status 2.
+2026-03-01 20:58:49.198166: Command '['pypush', 'interpret', '--key', 'RJCngObbHGXgWKen2okANJNAlHRskSFA=']' returned non-zero exit status 2.
+2026-03-01 21:03:49.379160: Command '['pypush', 'interpret', '--key', 'RJCngObbHGXgWKen2okANJNAlHRskSFA=']' returned non-zero exit status 2.
+2026-03-01 21:08:49.563054: Command '['pypush', 'interpret', '--key', 'RJCngObbHGXgWKen2okANJNAlHRskSFA=']' returned non-zero exit status 2.
+2026-03-01 21:13:49.754849: Command '['pypush', 'interpret', '--key', 'RJCngObbHGXgWKen2okANJNAlHRskSFA=']' returned non-zero exit status 2.
+2026-03-01 21:18:49.934561: Command '['pypush', 'interpret', '--key', 'RJCngObbHGXgWKen2okANJNAlHRskSFA=']' returned non-zero exit status 2.
+2026-03-01 21:23:50.148653: Command '['pypush', 'interpret', '--key', 'RJCngObbHGXgWKen2okANJNAlHRskSFA=']' returned non-zero exit status 2.
+2026-03-01 21:28:50.359758: Command '['pypush', 'interpret', '--key', 'RJCngObbHGXgWKen2okANJNAlHRskSFA=']' returned non-zero exit status 2.
+2026-03-01 22:08:19.442606: Cannot connect to host gateway.icloud.com:443 ssl:False [Temporary failure in name resolution]
+2026-03-01 22:13:19.551897: Cannot connect to host gateway.icloud.com:443 ssl:False [Temporary failure in name resolution]
+2026-03-01 22:18:19.576353: Cannot connect to host gateway.icloud.com:443 ssl:False [Temporary failure in name resolution]
+2026-03-01 22:23:19.609398: Cannot connect to host gateway.icloud.com:443 ssl:False [Temporary failure in name resolution]
+2026-03-01 22:28:19.718912: Cannot connect to host gateway.icloud.com:443 ssl:False [Temporary failure in name resolution]
+2026-03-01 22:33:19.827445: Cannot connect to host gateway.icloud.com:443 ssl:False [Temporary failure in name resolution]
+2026-03-01 22:38:19.936349: Cannot connect to host gateway.icloud.com:443 ssl:False [Temporary failure in name resolution]
+2026-03-01 22:43:20.025239: Cannot connect to host gateway.icloud.com:443 ssl:False [Temporary failure in name resolution]
+2026-03-01 22:48:20.136504: Cannot connect to host gateway.icloud.com:443 ssl:False [Temporary failure in name resolution]
+2026-03-01 22:53:20.246717: Cannot connect to host gateway.icloud.com:443 ssl:False [Temporary failure in name resolution]
+2026-03-01 22:58:20.348150: Cannot connect to host gateway.icloud.com:443 ssl:False [Temporary failure in name resolution]
+2026-03-01 23:03:20.357003: Cannot connect to host gateway.icloud.com:443 ssl:False [Temporary failure in name resolution]
+2026-03-01 23:08:20.466150: Cannot connect to host gateway.icloud.com:443 ssl:False [Temporary failure in name resolution]
+2026-03-01 23:13:20.574212: Cannot connect to host gateway.icloud.com:443 ssl:False [Temporary failure in name resolution]
+2026-03-01 23:18:20.662858: Cannot connect to host gateway.icloud.com:443 ssl:False [Temporary failure in name resolution]
+2026-03-01 23:23:20.676835: Cannot connect to host gateway.icloud.com:443 ssl:False [Temporary failure in name resolution]
+2026-03-01 23:28:20.785081: Cannot connect to host gateway.icloud.com:443 ssl:False [Temporary failure in name resolution]
+2026-03-01 23:33:20.894234: Cannot connect to host gateway.icloud.com:443 ssl:False [Temporary failure in name resolution]
+2026-03-01 23:38:21.002528: Cannot connect to host gateway.icloud.com:443 ssl:False [Temporary failure in name resolution]
+2026-03-01 23:43:21.088626: Cannot connect to host gateway.icloud.com:443 ssl:False [Temporary failure in name resolution]
+2026-03-01 23:48:21.199584: Cannot connect to host gateway.icloud.com:443 ssl:False [Temporary failure in name resolution]
+2026-03-01 23:53:21.271843: Cannot connect to host gateway.icloud.com:443 ssl:False [Temporary failure in name resolution]
+2026-03-01 23:58:21.368757: Cannot connect to host gateway.icloud.com:443 ssl:False [Temporary failure in name resolution]
+2026-03-02 00:03:21.463880: Cannot connect to host gateway.icloud.com:443 ssl:False [Temporary failure in name resolution]
+2026-03-02 00:08:21.531916: Cannot connect to host gateway.icloud.com:443 ssl:False [Temporary failure in name resolution]
+2026-03-02 00:13:21.640625: Cannot connect to host gateway.icloud.com:443 ssl:False [Temporary failure in name resolution]
+2026-03-02 00:18:21.692857: Cannot connect to host gateway.icloud.com:443 ssl:False [Temporary failure in name resolution]
+2026-03-02 00:23:21.801646: Cannot connect to host gateway.icloud.com:443 ssl:False [Temporary failure in name resolution]
+2026-03-02 00:28:21.910476: Cannot connect to host gateway.icloud.com:443 ssl:False [Temporary failure in name resolution]
+2026-03-02 00:33:21.976631: Cannot connect to host gateway.icloud.com:443 ssl:False [Temporary failure in name resolution]
+2026-03-02 00:38:22.008808: Cannot connect to host gateway.icloud.com:443 ssl:False [Temporary failure in name resolution]
+2026-03-02 00:43:22.040990: Cannot connect to host gateway.icloud.com:443 ssl:False [Temporary failure in name resolution]
+2026-03-02 00:48:22.149644: Cannot connect to host gateway.icloud.com:443 ssl:False [Temporary failure in name resolution]
+2026-03-02 00:53:22.172654: Cannot connect to host gateway.icloud.com:443 ssl:False [Temporary failure in name resolution]
+2026-03-02 00:58:22.271740: Cannot connect to host gateway.icloud.com:443 ssl:False [Temporary failure in name resolution]
+2026-03-02 20:47:12.317505: 
+2026-03-04 14:33:08.365169: 
+2026-03-04 17:34:13.734313: 
+2026-03-04 18:23:04.915723: 
+2026-03-04 21:00:06.320949: 
+2026-03-04 22:11:21.321087: 
+2026-03-04 22:16:27.320011: 
+2026-03-04 22:21:33.320537: 
+2026-03-05 00:36:31.325405: 
+2026-03-05 00:46:39.316795: 
+2026-03-06 15:53:05.229444: Cannot connect to host gateway.icloud.com:443 ssl:False [Temporary failure in name resolution]
+2026-03-09 02:30:14.088259: 
+2026-03-10 12:56:18.516058: Cannot connect to host gateway.icloud.com:443 ssl:False [Temporary failure in name resolution]
+2026-03-10 13:01:18.597505: Cannot connect to host gateway.icloud.com:443 ssl:False [Temporary failure in name resolution]
+2026-03-10 13:06:18.696974: Cannot connect to host gateway.icloud.com:443 ssl:False [Temporary failure in name resolution]
+2026-03-10 13:11:18.767276: Cannot connect to host gateway.icloud.com:443 ssl:False [Temporary failure in name resolution]
+2026-03-10 13:16:18.873363: Cannot connect to host gateway.icloud.com:443 ssl:False [Temporary failure in name resolution]
+2026-03-10 13:21:18.968412: Cannot connect to host gateway.icloud.com:443 ssl:False [Temporary failure in name resolution]
+2026-03-10 13:26:19.059707: Cannot connect to host gateway.icloud.com:443 ssl:False [Temporary failure in name resolution]
+2026-03-10 13:31:19.133607: Cannot connect to host gateway.icloud.com:443 ssl:False [Temporary failure in name resolution]
+2026-03-10 13:36:19.242969: Cannot connect to host gateway.icloud.com:443 ssl:False [Temporary failure in name resolution]
+2026-03-10 13:41:19.286939: Cannot connect to host gateway.icloud.com:443 ssl:False [Temporary failure in name resolution]
+2026-03-10 13:46:19.391970: Cannot connect to host gateway.icloud.com:443 ssl:False [Temporary failure in name resolution]
+2026-03-10 13:51:19.498866: Cannot connect to host gateway.icloud.com:443 ssl:False [Temporary failure in name resolution]
+2026-03-10 13:56:19.603421: Cannot connect to host gateway.icloud.com:443 ssl:False [Temporary failure in name resolution]
+2026-03-10 14:01:19.699931: Cannot connect to host gateway.icloud.com:443 ssl:False [Temporary failure in name resolution]
+2026-03-10 14:06:19.783866: Cannot connect to host gateway.icloud.com:443 ssl:False [Temporary failure in name resolution]
+2026-03-10 14:11:19.802310: Cannot connect to host gateway.icloud.com:443 ssl:False [Temporary failure in name resolution]
+2026-03-10 14:16:19.858805: Cannot connect to host gateway.icloud.com:443 ssl:False [Temporary failure in name resolution]
+2026-03-10 14:21:19.881875: Cannot connect to host gateway.icloud.com:443 ssl:False [Temporary failure in name resolution]
+2026-03-10 14:26:19.928898: Cannot connect to host gateway.icloud.com:443 ssl:False [Temporary failure in name resolution]
+2026-03-10 14:31:20.007297: Cannot connect to host gateway.icloud.com:443 ssl:False [Temporary failure in name resolution]
+2026-03-10 14:36:20.112103: Cannot connect to host gateway.icloud.com:443 ssl:False [Temporary failure in name resolution]
+2026-03-10 14:41:20.218797: Cannot connect to host gateway.icloud.com:443 ssl:False [Temporary failure in name resolution]
+2026-03-10 14:46:20.315442: Cannot connect to host gateway.icloud.com:443 ssl:False [Temporary failure in name resolution]
+2026-03-10 14:51:20.422074: Cannot connect to host gateway.icloud.com:443 ssl:False [Temporary failure in name resolution]
+2026-03-10 14:56:20.527452: Cannot connect to host gateway.icloud.com:443 ssl:False [Temporary failure in name resolution]
+2026-03-10 15:01:20.634498: Cannot connect to host gateway.icloud.com:443 ssl:False [Temporary failure in name resolution]
+2026-03-10 15:06:20.734478: Cannot connect to host gateway.icloud.com:443 ssl:False [Temporary failure in name resolution]
+2026-03-10 15:11:20.819685: Cannot connect to host gateway.icloud.com:443 ssl:False [Temporary failure in name resolution]
+2026-03-10 15:16:20.928122: Cannot connect to host gateway.icloud.com:443 ssl:False [Temporary failure in name resolution]
+2026-03-10 15:21:21.023390: Cannot connect to host gateway.icloud.com:443 ssl:False [Temporary failure in name resolution]
+2026-03-10 15:26:21.131411: Cannot connect to host gateway.icloud.com:443 ssl:False [Temporary failure in name resolution]
+2026-03-10 15:31:21.225363: Cannot connect to host gateway.icloud.com:443 ssl:False [Temporary failure in name resolution]
+2026-03-10 15:36:21.330905: Cannot connect to host gateway.icloud.com:443 ssl:False [Temporary failure in name resolution]
+2026-03-10 15:41:21.358388: Cannot connect to host gateway.icloud.com:443 ssl:False [Temporary failure in name resolution]
+2026-03-10 15:46:21.414826: Cannot connect to host gateway.icloud.com:443 ssl:False [Temporary failure in name resolution]
+2026-03-10 15:51:21.521921: Cannot connect to host gateway.icloud.com:443 ssl:False [Temporary failure in name resolution]
+2026-03-10 15:56:21.629335: Cannot connect to host gateway.icloud.com:443 ssl:False [Temporary failure in name resolution]
+2026-03-10 16:01:21.674380: Cannot connect to host gateway.icloud.com:443 ssl:False [Temporary failure in name resolution]
+2026-03-10 16:06:21.780276: Cannot connect to host gateway.icloud.com:443 ssl:False [Temporary failure in name resolution]
+2026-03-10 16:11:21.888047: Cannot connect to host gateway.icloud.com:443 ssl:False [Temporary failure in name resolution]
+2026-03-10 16:16:21.929050: Cannot connect to host gateway.icloud.com:443 ssl:False [Temporary failure in name resolution]
+2026-03-10 16:21:22.005281: Cannot connect to host gateway.icloud.com:443 ssl:False [Temporary failure in name resolution]
+2026-03-10 16:26:22.045725: Cannot connect to host gateway.icloud.com:443 ssl:False [Temporary failure in name resolution]
+2026-03-10 16:31:22.065471: Cannot connect to host gateway.icloud.com:443 ssl:False [Temporary failure in name resolution]
+2026-03-10 16:36:22.090182: Cannot connect to host gateway.icloud.com:443 ssl:False [Temporary failure in name resolution]
+2026-03-10 16:41:22.196279: Cannot connect to host gateway.icloud.com:443 ssl:False [Temporary failure in name resolution]
+2026-03-10 16:46:22.301321: Cannot connect to host gateway.icloud.com:443 ssl:False [Temporary failure in name resolution]
+2026-03-10 16:51:22.367258: Cannot connect to host gateway.icloud.com:443 ssl:False [Temporary failure in name resolution]
+2026-03-10 16:56:22.472860: Cannot connect to host gateway.icloud.com:443 ssl:False [Temporary failure in name resolution]
+2026-03-10 17:01:22.578883: Cannot connect to host gateway.icloud.com:443 ssl:False [Temporary failure in name resolution]
+2026-03-10 17:06:22.686630: Cannot connect to host gateway.icloud.com:443 ssl:False [Temporary failure in name resolution]
+2026-03-10 17:11:22.780363: Cannot connect to host gateway.icloud.com:443 ssl:False [Temporary failure in name resolution]
+2026-03-10 17:16:22.887535: Cannot connect to host gateway.icloud.com:443 ssl:False [Temporary failure in name resolution]
+2026-03-10 17:21:22.973117: Cannot connect to host gateway.icloud.com:443 ssl:False [Temporary failure in name resolution]
+2026-03-10 17:26:23.073255: Cannot connect to host gateway.icloud.com:443 ssl:False [Temporary failure in name resolution]
+2026-03-10 17:31:23.173464: Cannot connect to host gateway.icloud.com:443 ssl:False [Temporary failure in name resolution]
+2026-03-10 17:36:23.253903: Cannot connect to host gateway.icloud.com:443 ssl:False [Temporary failure in name resolution]
+2026-03-10 17:41:23.358562: Cannot connect to host gateway.icloud.com:443 ssl:False [Temporary failure in name resolution]
+2026-03-10 17:46:23.406343: Cannot connect to host gateway.icloud.com:443 ssl:False [Temporary failure in name resolution]
+2026-03-10 17:51:23.502380: Cannot connect to host gateway.icloud.com:443 ssl:False [Temporary failure in name resolution]
+2026-03-10 17:56:23.531915: Cannot connect to host gateway.icloud.com:443 ssl:False [Temporary failure in name resolution]
+2026-03-10 18:01:23.633277: Cannot connect to host gateway.icloud.com:443 ssl:False [Temporary failure in name resolution]
+2026-03-10 18:06:23.741192: Cannot connect to host gateway.icloud.com:443 ssl:False [Temporary failure in name resolution]
+2026-03-10 18:11:23.857774: Cannot connect to host gateway.icloud.com:443 ssl:False [Temporary failure in name resolution]
+2026-03-10 18:16:23.913325: Cannot connect to host gateway.icloud.com:443 ssl:False [Temporary failure in name resolution]
+2026-03-10 18:21:24.021323: Cannot connect to host gateway.icloud.com:443 ssl:False [Temporary failure in name resolution]
+2026-03-10 18:26:24.042358: Cannot connect to host gateway.icloud.com:443 ssl:False [Temporary failure in name resolution]
+2026-03-10 18:31:24.151562: Cannot connect to host gateway.icloud.com:443 ssl:False [Temporary failure in name resolution]
+2026-03-10 18:36:24.243014: Cannot connect to host gateway.icloud.com:443 ssl:False [Temporary failure in name resolution]
+2026-03-10 18:41:24.349403: Cannot connect to host gateway.icloud.com:443 ssl:False [Temporary failure in name resolution]
+2026-03-10 18:46:24.369077: Cannot connect to host gateway.icloud.com:443 ssl:False [Temporary failure in name resolution]
+2026-03-10 18:51:24.448263: Cannot connect to host gateway.icloud.com:443 ssl:False [Temporary failure in name resolution]
+2026-03-10 18:56:24.554112: Cannot connect to host gateway.icloud.com:443 ssl:False [Temporary failure in name resolution]
+2026-03-10 19:01:24.661752: Cannot connect to host gateway.icloud.com:443 ssl:False [Temporary failure in name resolution]
+2026-03-10 19:06:24.819451: Cannot connect to host gateway.icloud.com:443 ssl:False [Temporary failure in name resolution]
+2026-03-10 19:11:24.928179: Cannot connect to host gateway.icloud.com:443 ssl:False [Temporary failure in name resolution]
+2026-03-10 19:16:25.037811: Cannot connect to host gateway.icloud.com:443 ssl:False [Temporary failure in name resolution]
+2026-03-10 19:21:25.049844: Cannot connect to host gateway.icloud.com:443 ssl:False [Temporary failure in name resolution]
+2026-03-10 19:26:25.158810: Cannot connect to host gateway.icloud.com:443 ssl:False [Temporary failure in name resolution]
+2026-03-10 19:31:25.264225: Cannot connect to host gateway.icloud.com:443 ssl:False [Temporary failure in name resolution]
+2026-03-10 19:36:25.363395: Cannot connect to host gateway.icloud.com:443 ssl:False [Temporary failure in name resolution]
+2026-03-10 19:41:25.427732: Cannot connect to host gateway.icloud.com:443 ssl:False [Temporary failure in name resolution]
+2026-03-10 19:46:25.535622: Cannot connect to host gateway.icloud.com:443 ssl:False [Temporary failure in name resolution]
+2026-03-10 19:51:25.628001: Cannot connect to host gateway.icloud.com:443 ssl:False [Temporary failure in name resolution]
+2026-03-10 19:56:25.736728: Cannot connect to host gateway.icloud.com:443 ssl:False [Temporary failure in name resolution]
+2026-03-10 20:01:25.816601: Cannot connect to host gateway.icloud.com:443 ssl:False [Temporary failure in name resolution]
+2026-03-10 20:06:25.925369: Cannot connect to host gateway.icloud.com:443 ssl:False [Temporary failure in name resolution]
+2026-03-10 20:11:26.032852: Cannot connect to host gateway.icloud.com:443 ssl:False [Temporary failure in name resolution]
+2026-03-10 20:16:26.099075: Cannot connect to host gateway.icloud.com:443 ssl:False [Temporary failure in name resolution]
+2026-03-10 20:21:26.171262: Cannot connect to host gateway.icloud.com:443 ssl:False [Temporary failure in name resolution]
+2026-03-10 20:26:26.243734: Cannot connect to host gateway.icloud.com:443 ssl:False [Temporary failure in name resolution]
+2026-03-10 20:31:26.348595: Cannot connect to host gateway.icloud.com:443 ssl:False [Temporary failure in name resolution]
+2026-03-10 20:36:26.455890: Cannot connect to host gateway.icloud.com:443 ssl:False [Temporary failure in name resolution]
+2026-03-10 20:41:26.554244: Cannot connect to host gateway.icloud.com:443 ssl:False [Temporary failure in name resolution]
+2026-03-10 20:46:26.646413: Cannot connect to host gateway.icloud.com:443 ssl:False [Temporary failure in name resolution]
+2026-03-10 20:51:26.716508: Cannot connect to host gateway.icloud.com:443 ssl:False [Temporary failure in name resolution]
+2026-03-10 20:56:26.764753: Cannot connect to host gateway.icloud.com:443 ssl:False [Temporary failure in name resolution]
+2026-03-10 21:01:26.778004: Cannot connect to host gateway.icloud.com:443 ssl:False [Temporary failure in name resolution]
+2026-03-10 21:06:26.857535: Cannot connect to host gateway.icloud.com:443 ssl:False [Temporary failure in name resolution]
+2026-03-10 21:11:26.900737: Cannot connect to host gateway.icloud.com:443 ssl:False [Temporary failure in name resolution]
+2026-03-10 21:16:26.975263: Cannot connect to host gateway.icloud.com:443 ssl:False [Temporary failure in name resolution]
+2026-03-10 21:21:27.083220: Cannot connect to host gateway.icloud.com:443 ssl:False [Temporary failure in name resolution]
+2026-03-10 21:26:27.114610: Cannot connect to host gateway.icloud.com:443 ssl:False [Temporary failure in name resolution]
+2026-03-10 21:31:27.206101: Cannot connect to host gateway.icloud.com:443 ssl:False [Temporary failure in name resolution]
+2026-03-10 21:36:27.256594: Cannot connect to host gateway.icloud.com:443 ssl:False [Temporary failure in name resolution]
+2026-03-10 21:41:27.364737: Cannot connect to host gateway.icloud.com:443 ssl:False [Temporary failure in name resolution]
+2026-03-10 21:46:27.400880: Cannot connect to host gateway.icloud.com:443 ssl:False [Temporary failure in name resolution]
+2026-03-10 21:51:27.506022: Cannot connect to host gateway.icloud.com:443 ssl:False [Temporary failure in name resolution]
+2026-03-10 21:56:27.560917: Cannot connect to host gateway.icloud.com:443 ssl:False [Temporary failure in name resolution]
+2026-03-10 22:01:27.657520: Cannot connect to host gateway.icloud.com:443 ssl:False [Temporary failure in name resolution]
+2026-03-10 22:06:27.753731: Cannot connect to host gateway.icloud.com:443 ssl:False [Temporary failure in name resolution]
+2026-03-10 22:11:27.837548: Cannot connect to host gateway.icloud.com:443 ssl:False [Temporary failure in name resolution]
+2026-03-10 22:16:27.943174: Cannot connect to host gateway.icloud.com:443 ssl:False [Temporary failure in name resolution]
+2026-03-10 22:21:28.052826: Cannot connect to host gateway.icloud.com:443 ssl:False [Temporary failure in name resolution]
+2026-03-10 22:26:28.147440: Cannot connect to host gateway.icloud.com:443 ssl:False [Temporary failure in name resolution]
+2026-03-10 22:31:28.242677: Cannot connect to host gateway.icloud.com:443 ssl:False [Temporary failure in name resolution]
+2026-03-10 22:36:28.291525: Cannot connect to host gateway.icloud.com:443 ssl:False [Temporary failure in name resolution]
+2026-03-10 22:41:28.397257: Cannot connect to host gateway.icloud.com:443 ssl:False [Temporary failure in name resolution]
+2026-03-10 22:46:28.502497: Cannot connect to host gateway.icloud.com:443 ssl:False [Temporary failure in name resolution]
+2026-03-10 22:51:28.600449: Cannot connect to host gateway.icloud.com:443 ssl:False [Temporary failure in name resolution]
+2026-03-10 22:56:28.653680: Cannot connect to host gateway.icloud.com:443 ssl:False [Temporary failure in name resolution]
+2026-03-10 23:01:28.744462: Cannot connect to host gateway.icloud.com:443 ssl:False [Temporary failure in name resolution]
+2026-03-10 23:06:28.813361: Cannot connect to host gateway.icloud.com:443 ssl:False [Temporary failure in name resolution]
+2026-03-10 23:11:28.920185: Cannot connect to host gateway.icloud.com:443 ssl:False [Temporary failure in name resolution]
+2026-03-10 23:16:29.005614: Cannot connect to host gateway.icloud.com:443 ssl:False [Temporary failure in name resolution]
+2026-03-10 23:21:29.079274: Cannot connect to host gateway.icloud.com:443 ssl:False [Temporary failure in name resolution]
+2026-03-10 23:26:29.136122: Cannot connect to host gateway.icloud.com:443 ssl:False [Temporary failure in name resolution]
+2026-03-10 23:31:29.152963: Cannot connect to host gateway.icloud.com:443 ssl:False [Temporary failure in name resolution]
+2026-03-10 23:36:29.259383: Cannot connect to host gateway.icloud.com:443 ssl:False [Temporary failure in name resolution]
+2026-03-10 23:41:29.275584: Cannot connect to host gateway.icloud.com:443 ssl:False [Temporary failure in name resolution]
+2026-03-10 23:46:29.335796: Cannot connect to host gateway.icloud.com:443 ssl:False [Temporary failure in name resolution]
+2026-03-10 23:51:29.444044: Cannot connect to host gateway.icloud.com:443 ssl:False [Temporary failure in name resolution]
+2026-03-10 23:56:29.457453: Cannot connect to host gateway.icloud.com:443 ssl:False [Temporary failure in name resolution]
+2026-03-11 00:01:29.563463: Cannot connect to host gateway.icloud.com:443 ssl:False [Temporary failure in name resolution]
+2026-03-11 00:06:29.667293: Cannot connect to host gateway.icloud.com:443 ssl:False [Temporary failure in name resolution]
+2026-03-11 00:11:29.773655: Cannot connect to host gateway.icloud.com:443 ssl:False [Temporary failure in name resolution]
+2026-03-11 00:16:29.881049: Cannot connect to host gateway.icloud.com:443 ssl:False [Temporary failure in name resolution]
+2026-03-11 00:21:30.013749: Cannot connect to host gateway.icloud.com:443 ssl:False [Temporary failure in name resolution]
+2026-03-11 00:41:58.714017: 
+2026-03-11 01:12:45.713560: 
+2026-03-11 13:00:33.117872: 
+2026-03-12 17:34:39.381583: Cannot connect to host gateway.icloud.com:443 ssl:False [Temporary failure in name resolution]
+2026-03-12 17:39:41.487161: Cannot connect to host gateway.icloud.com:443 ssl:False [Temporary failure in name resolution]
+2026-03-14 11:20:30.398365: Cannot connect to host gateway.icloud.com:443 ssl:False [Temporary failure in name resolution]
+2026-03-14 11:25:30.428270: Cannot connect to host gateway.icloud.com:443 ssl:False [Temporary failure in name resolution]
+2026-03-14 11:30:30.530206: Cannot connect to host gateway.icloud.com:443 ssl:False [Temporary failure in name resolution]
+2026-03-14 11:35:30.575191: Cannot connect to host gateway.icloud.com:443 ssl:False [Temporary failure in name resolution]
+2026-03-14 11:40:30.610566: Cannot connect to host gateway.icloud.com:443 ssl:False [Temporary failure in name resolution]
+2026-03-14 11:45:30.717595: Cannot connect to host gateway.icloud.com:443 ssl:False [Temporary failure in name resolution]
+2026-03-14 11:50:30.823100: Cannot connect to host gateway.icloud.com:443 ssl:False [Temporary failure in name resolution]
+2026-03-14 11:55:30.929004: Cannot connect to host gateway.icloud.com:443 ssl:False [Temporary failure in name resolution]
+2026-03-14 12:00:33.004549: Cannot connect to host gateway.icloud.com:443 ssl:False [Temporary failure in name resolution]
+2026-03-14 13:05:49.637217: Cannot connect to host gateway.icloud.com:443 ssl:False [Temporary failure in name resolution]
+2026-03-14 13:10:51.750458: Cannot connect to host gateway.icloud.com:443 ssl:False [Temporary failure in name resolution]
+2026-03-14 13:15:53.743617: Cannot connect to host gateway.icloud.com:443 ssl:False [Temporary failure in name resolution]
+2026-03-16 17:16:30.432460: Failed to fetch reports: None
+2026-03-18 22:10:20.949126: 
+2026-03-18 22:50:47.467226: 
+2026-03-20 14:51:58.192240: Cannot connect to host gateway.icloud.com:443 ssl:False [Temporary failure in name resolution]
+2026-03-20 14:57:00.301697: Cannot connect to host gateway.icloud.com:443 ssl:False [Temporary failure in name resolution]
+2026-03-20 15:02:00.386883: Cannot connect to host gateway.icloud.com:443 ssl:False [Temporary failure in name resolution]
+2026-03-20 15:07:00.495663: Cannot connect to host gateway.icloud.com:443 ssl:False [Temporary failure in name resolution]
+2026-03-20 15:17:03.018328: Cannot connect to host gateway.icloud.com:443 ssl:False [Temporary failure in name resolution]
+2026-03-21 11:04:44.307139: 
+2026-03-21 12:44:47.416996: 
+2026-03-22 03:43:14.142562: Cannot connect to host gateway.icloud.com:443 ssl:False [Temporary failure in name resolution]
+2026-03-22 15:06:47.085746: Cannot connect to host gateway.icloud.com:443 ssl:False [Temporary failure in name resolution]
+2026-03-22 15:11:47.160087: Cannot connect to host gateway.icloud.com:443 ssl:False [Temporary failure in name resolution]
+2026-03-22 15:16:47.267557: Cannot connect to host gateway.icloud.com:443 ssl:False [Temporary failure in name resolution]
+2026-03-22 15:21:47.343425: Cannot connect to host gateway.icloud.com:443 ssl:False [Temporary failure in name resolution]
+2026-03-22 15:36:06.034656: Cannot connect to host gateway.icloud.com:443 ssl:False [Temporary failure in name resolution]
+2026-03-27 21:00:19.866203: 
+2026-03-29 10:43:07.353420: Cannot connect to host gateway.icloud.com:443 ssl:False [Temporary failure in name resolution]
+2026-03-29 10:48:07.434969: Cannot connect to host gateway.icloud.com:443 ssl:False [Temporary failure in name resolution]
+2026-03-29 10:53:07.549851: Cannot connect to host gateway.icloud.com:443 ssl:False [Temporary failure in name resolution]
+2026-03-29 10:58:07.659734: Cannot connect to host gateway.icloud.com:443 ssl:False [Temporary failure in name resolution]
+2026-03-29 11:48:59.884300: [Errno 104] Connection reset by peer
+2026-03-29 11:54:57.026261: Cannot connect to host gateway.icloud.com:443 ssl:False [Temporary failure in name resolution]
+2026-03-29 13:10:23.623686: Cannot connect to host gateway.icloud.com:443 ssl:False [Temporary failure in name resolution]
+2026-03-29 13:15:23.725183: Cannot connect to host gateway.icloud.com:443 ssl:False [Temporary failure in name resolution]
+2026-03-29 13:20:23.832857: Cannot connect to host gateway.icloud.com:443 ssl:False [Temporary failure in name resolution]
+2026-03-29 13:25:23.946344: Cannot connect to host gateway.icloud.com:443 ssl:False [Temporary failure in name resolution]
+2026-03-29 13:30:24.051355: Cannot connect to host gateway.icloud.com:443 ssl:False [Temporary failure in name resolution]
+2026-03-29 13:35:24.157327: Cannot connect to host gateway.icloud.com:443 ssl:False [Temporary failure in name resolution]
+2026-03-29 13:40:24.264852: Cannot connect to host gateway.icloud.com:443 ssl:False [Temporary failure in name resolution]
+2026-03-30 05:01:28.349657: Cannot connect to host gateway.icloud.com:443 ssl:False [Temporary failure in name resolution]
+2026-03-30 12:33:53.615023: 
+2026-03-31 15:05:37.534642: Cannot connect to host gateway.icloud.com:443 ssl:False [Temporary failure in name resolution]
+2026-03-31 15:10:39.643391: Cannot connect to host gateway.icloud.com:443 ssl:False [Temporary failure in name resolution]
+2026-03-31 15:40:43.722639: Cannot connect to host gateway.icloud.com:443 ssl:False [Temporary failure in name resolution]
+2026-03-31 16:05:53.698880: Cannot connect to host gateway.icloud.com:443 ssl:False [Temporary failure in name resolution]
+2026-03-31 16:47:29.817395: Cannot connect to host gateway.icloud.com:443 ssl:False [Temporary failure in name resolution]
+2026-03-31 16:59:51.346376: Cannot connect to host gateway.icloud.com:443 ssl:False [Temporary failure in name resolution]
+2026-03-31 17:06:43.441970: Cannot connect to host gateway.icloud.com:443 ssl:False [Temporary failure in name resolution]
+2026-04-01 08:43:08.039742: Cannot connect to host gateway.icloud.com:443 ssl:False [Temporary failure in name resolution]
+2026-04-01 08:48:08.140371: Cannot connect to host gateway.icloud.com:443 ssl:False [Temporary failure in name resolution]
+2026-04-01 08:53:08.236169: Cannot connect to host gateway.icloud.com:443 ssl:False [Temporary failure in name resolution]
+2026-04-01 08:58:08.341163: Cannot connect to host gateway.icloud.com:443 ssl:False [Temporary failure in name resolution]
+2026-04-01 09:03:08.447062: Cannot connect to host gateway.icloud.com:443 ssl:False [Temporary failure in name resolution]
+2026-04-01 09:08:08.539930: Cannot connect to host gateway.icloud.com:443 ssl:False [Temporary failure in name resolution]
+2026-04-01 09:13:08.649280: Cannot connect to host gateway.icloud.com:443 ssl:False [Temporary failure in name resolution]
+2026-04-01 09:18:08.759353: Cannot connect to host gateway.icloud.com:443 ssl:False [Temporary failure in name resolution]
+2026-04-01 09:23:08.848622: Cannot connect to host gateway.icloud.com:443 ssl:False [Temporary failure in name resolution]
+2026-04-01 09:28:08.928178: Cannot connect to host gateway.icloud.com:443 ssl:False [Temporary failure in name resolution]
+2026-04-01 09:33:09.036287: Cannot connect to host gateway.icloud.com:443 ssl:False [Temporary failure in name resolution]
+2026-04-01 09:38:09.145196: Cannot connect to host gateway.icloud.com:443 ssl:False [Temporary failure in name resolution]
+2026-04-01 09:43:09.256633: Cannot connect to host gateway.icloud.com:443 ssl:False [Temporary failure in name resolution]
+2026-04-01 09:48:09.364370: Cannot connect to host gateway.icloud.com:443 ssl:False [Temporary failure in name resolution]
+2026-04-01 09:53:09.467164: Cannot connect to host gateway.icloud.com:443 ssl:False [Temporary failure in name resolution]
+2026-04-01 09:58:09.574013: Cannot connect to host gateway.icloud.com:443 ssl:False [Temporary failure in name resolution]
+2026-04-01 10:03:09.603570: Cannot connect to host gateway.icloud.com:443 ssl:False [Temporary failure in name resolution]
+2026-04-01 10:08:09.654976: Cannot connect to host gateway.icloud.com:443 ssl:False [Temporary failure in name resolution]
+2026-04-01 10:13:09.762583: Cannot connect to host gateway.icloud.com:443 ssl:False [Temporary failure in name resolution]
+2026-04-01 10:18:09.865451: Cannot connect to host gateway.icloud.com:443 ssl:False [Temporary failure in name resolution]
+2026-04-01 10:23:09.917535: Cannot connect to host gateway.icloud.com:443 ssl:False [Temporary failure in name resolution]
+2026-04-01 10:28:10.027245: Cannot connect to host gateway.icloud.com:443 ssl:False [Temporary failure in name resolution]
+2026-04-01 10:33:10.110069: Cannot connect to host gateway.icloud.com:443 ssl:False [Temporary failure in name resolution]
+2026-04-01 10:38:10.217976: Cannot connect to host gateway.icloud.com:443 ssl:False [Temporary failure in name resolution]
+2026-04-01 10:43:10.325356: Cannot connect to host gateway.icloud.com:443 ssl:False [Temporary failure in name resolution]
+2026-04-01 10:48:10.429601: Cannot connect to host gateway.icloud.com:443 ssl:False [Temporary failure in name resolution]
+2026-04-01 10:53:10.537578: Cannot connect to host gateway.icloud.com:443 ssl:False [Temporary failure in name resolution]
+2026-04-01 13:23:22.700881: Cannot connect to host gateway.icloud.com:443 ssl:False [Temporary failure in name resolution]
+2026-04-01 13:38:29.302498: 
+                                                                                                                           2026-04-01 17:47:20.167920: Cannot connect to host gateway.icloud.com:443 ssl:False [Temporary failure in name resolution]
+2026-04-01 17:52:20.297658: Cannot connect to host gateway.icloud.com:443 ssl:False [Temporary failure in name resolution]
+2026-04-01 17:57:20.406411: Cannot connect to host gateway.icloud.com:443 ssl:False [Temporary failure in name resolution]
+2026-04-01 18:02:20.511420: Cannot connect to host gateway.icloud.com:443 ssl:False [Temporary failure in name resolution]
+2026-04-02 17:20:39.022029: Cannot connect to host gateway.icloud.com:443 ssl:False [Temporary failure in name resolution]
+2026-04-03 11:20:06.196821: Cannot connect to host gateway.icloud.com:443 ssl:False [Temporary failure in name resolution]
+2026-04-03 11:53:50.424071: 
+2026-04-03 13:09:50.730043: Cannot connect to host gateway.icloud.com:443 ssl:False [Temporary failure in name resolution]
+2026-04-03 13:14:50.819040: Cannot connect to host gateway.icloud.com:443 ssl:False [Temporary failure in name resolution]
+2026-04-03 13:19:50.918232: Cannot connect to host gateway.icloud.com:443 ssl:False [Temporary failure in name resolution]
+2026-04-03 13:24:51.040184: Cannot connect to host gateway.icloud.com:443 ssl:False [Temporary failure in name resolution]
+2026-04-03 13:29:51.150350: Cannot connect to host gateway.icloud.com:443 ssl:False [Temporary failure in name resolution]
+2026-04-03 13:34:51.261577: Cannot connect to host gateway.icloud.com:443 ssl:False [Temporary failure in name resolution]
+2026-04-03 13:39:51.371968: Cannot connect to host gateway.icloud.com:443 ssl:False [Temporary failure in name resolution]
+2026-04-03 13:44:51.517153: Cannot connect to host gateway.icloud.com:443 ssl:False [Temporary failure in name resolution]
+2026-04-03 13:52:52.944225: Cannot connect to host gateway.icloud.com:443 ssl:False [Temporary failure in name resolution]
+2026-04-03 14:17:36.709065: Cannot connect to host gateway.icloud.com:443 ssl:False [Temporary failure in name resolution]
+2026-04-03 14:25:00.492205: Cannot connect to host gateway.icloud.com:443 ssl:False [Temporary failure in name resolution]
+2026-04-03 14:30:00.500282: Cannot connect to host gateway.icloud.com:443 ssl:False [Temporary failure in name resolution]
+2026-04-03 14:43:07.105479: Cannot connect to host gateway.icloud.com:443 ssl:False [Temporary failure in name resolution]
+2026-04-03 16:35:31.487964: 
+2026-04-04 22:00:42.912216: Cannot connect to host gateway.icloud.com:443 ssl:False [Temporary failure in name resolution]
+2026-04-05 05:01:14.854731: Cannot connect to host gateway.icloud.com:443 ssl:False [Temporary failure in name resolution]
+2026-04-05 12:57:37.974102: Cannot connect to host gateway.icloud.com:443 ssl:False [Temporary failure in name resolution]
+2026-04-05 13:07:38.642698: Cannot connect to host gateway.icloud.com:443 ssl:False [Temporary failure in name resolution]
+2026-04-05 13:12:38.759626: Cannot connect to host gateway.icloud.com:443 ssl:False [Temporary failure in name resolution]
+2026-04-05 13:17:38.863692: Cannot connect to host gateway.icloud.com:443 ssl:False [Temporary failure in name resolution]
+2026-04-05 13:22:38.971233: Cannot connect to host gateway.icloud.com:443 ssl:False [Temporary failure in name resolution]
+2026-04-05 15:43:11.069323: 
+2026-04-05 16:23:25.028298: 
+2026-04-05 19:13:44.349597: Cannot connect to host gateway.icloud.com:443 ssl:False [Temporary failure in name resolution]
+2026-04-06 12:31:22.577499: Cannot connect to host gateway.icloud.com:443 ssl:False [Temporary failure in name resolution]
+2026-04-06 12:36:22.611894: Cannot connect to host gateway.icloud.com:443 ssl:False [Temporary failure in name resolution]
+2026-04-07 04:17:21.090127: Cannot connect to host gateway.icloud.com:443 ssl:False [Temporary failure in name resolution]
+2026-04-07 16:15:11.735249: Cannot connect to host gateway.icloud.com:443 ssl:False [Temporary failure in name resolution]
+2026-04-07 19:07:02.015901: Cannot connect to host gateway.icloud.com:443 ssl:False [Temporary failure in name resolution]
+2026-04-07 21:07:31.641566: Cannot connect to host gateway.icloud.com:443 ssl:False [Temporary failure in name resolution]
+2026-04-08 07:57:10.944407: Cannot connect to host gateway.icloud.com:443 ssl:False [Temporary failure in name resolution]
+2026-04-08 08:02:10.969187: Cannot connect to host gateway.icloud.com:443 ssl:False [Temporary failure in name resolution]
+2026-04-08 08:07:11.025062: Cannot connect to host gateway.icloud.com:443 ssl:False [Temporary failure in name resolution]
+2026-04-08 08:12:11.108240: Cannot connect to host gateway.icloud.com:443 ssl:False [Temporary failure in name resolution]
+2026-04-08 08:17:11.224017: Cannot connect to host gateway.icloud.com:443 ssl:False [Temporary failure in name resolution]
+2026-04-08 08:22:11.333570: Cannot connect to host gateway.icloud.com:443 ssl:False [Temporary failure in name resolution]
+2026-04-08 08:27:11.434698: Cannot connect to host gateway.icloud.com:443 ssl:False [Temporary failure in name resolution]
+2026-04-08 08:32:11.536526: Cannot connect to host gateway.icloud.com:443 ssl:False [Temporary failure in name resolution]
+2026-04-08 08:37:11.571979: Cannot connect to host gateway.icloud.com:443 ssl:False [Temporary failure in name resolution]
+2026-04-08 08:42:11.683809: Cannot connect to host gateway.icloud.com:443 ssl:False [Temporary failure in name resolution]
+2026-04-08 08:47:11.734897: Cannot connect to host gateway.icloud.com:443 ssl:False [Temporary failure in name resolution]
+2026-04-08 08:52:11.914095: Cannot connect to host gateway.icloud.com:443 ssl:False [Temporary failure in name resolution]
+2026-04-08 08:57:12.017170: Cannot connect to host gateway.icloud.com:443 ssl:False [Temporary failure in name resolution]
+2026-04-08 11:17:23.541419: [Errno 104] Connection reset by peer
+2026-04-08 14:18:24.664024: 
+2026-04-08 16:14:10.935798: Cannot connect to host gateway.icloud.com:443 ssl:False [Temporary failure in name resolution]
+2026-04-08 16:19:11.036534: Cannot connect to host gateway.icloud.com:443 ssl:False [Temporary failure in name resolution]
+2026-04-08 16:26:40.248503: Cannot connect to host gateway.icloud.com:443 ssl:False [Temporary failure in name resolution]
+2026-04-08 16:31:40.358559: Cannot connect to host gateway.icloud.com:443 ssl:False [Temporary failure in name resolution]
+2026-04-08 16:36:40.464337: Cannot connect to host gateway.icloud.com:443 ssl:False [Temporary failure in name resolution]
