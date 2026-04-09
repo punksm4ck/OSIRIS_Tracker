@@ -1,4 +1,5 @@
 "© 2026 Punksm4ck. All rights reserved."
+"© 2026 Punksm4ck. All rights reserved."
 #!/bin/bash
     COORD=$(cat "$COORD_FILE")
     LAT=$(echo $COORD | cut -d"," -f1)
